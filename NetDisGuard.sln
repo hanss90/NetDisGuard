@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDisGuard", "NetDisGuard.csproj", "{4F5EC93F-5CAE-9813-8340-98093F853A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5EC93F-5CAE-9813-8340-98093F853A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5EC93F-5CAE-9813-8340-98093F853A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5EC93F-5CAE-9813-8340-98093F853A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5EC93F-5CAE-9813-8340-98093F853A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00B042B-4AAD-49EF-9D3F-5D1FFB21EB8A}
+	EndGlobalSection
+EndGlobal

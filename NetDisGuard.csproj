@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>NetDisGuard</RootNamespace>
+    <AssemblyName>NetDisGuard</AssemblyName>
+
+    <PublishSingleFile>true</PublishSingleFile>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+
+    <!-- Version -->
+    <Version>0.0.1</Version>
+    <FileVersion>0.0.1.0</FileVersion>
+    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+
+    <!-- Description / Product -->
+    <Description>Network Disruption Guard - monitors network connection continuity</Description>
+    <Product>NetDisGuard</Product>
+
+    <!-- Author-->
+    <Authors>Hans Stake</Authors>
+    <Company>Hans Stake</Company>
+
+    <!-- Copyright -->
+    <Copyright>2025 Hans Stake</Copyright>
+  </PropertyGroup>
+
+</Project>
